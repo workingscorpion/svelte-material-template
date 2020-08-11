@@ -220,7 +220,7 @@ export default {
 
 ```
 
-Create theme/\_smni-theme.scss:
+Create theme/\_smui-theme.scss:
 
 ```bash
 mkdir theme
