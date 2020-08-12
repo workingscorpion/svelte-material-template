@@ -108,10 +108,10 @@ Install Material Design:
 npm install --save-dev svelte-material-ui
 ```
 
-Install Material Design:
+Install node-sass:
 
 ```bash
-npm install --save-dev svelte-material-ui
+npm install --save-dev node-sass
 ```
 
 Install Postcss and preprocess
